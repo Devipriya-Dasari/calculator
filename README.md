@@ -14,12 +14,7 @@ A basic Python calculator that performs addition, subtraction, multiplication, a
 
 ---
 
-## Technologies Used
-| Technology                   | Purpose                                                        |
-| ---------------------------- | -------------------------------------------------------------- |
-| **HTML5**                    | Structure and layout of the calculator interface               |
-| **CSS3**                     | Styling and layout (colors, buttons, responsiveness)           |
-| **JavaScript**               | Core logic for performing calculations and handling user input |
-| *(Optional)*                 |                                                                |
-| **Bootstrap / Tailwind CSS** | (If used) For responsive and styled UI components              |
-| **Git & GitHub**             | Version control and project hosting                            |
+##  Technologies Used
+
+- **Python 3.x**
+
